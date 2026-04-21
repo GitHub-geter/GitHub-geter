@@ -4,6 +4,7 @@
 **GitHub-geter/GitHub-geter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🏫 I’m currently studying in Supreme Knowledge Foundation Group of Institute
 - 📖 I’m currently persuing Computer Science and Engineering Btech degree
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I love what i am learning
 - ❤️‍🩹  Relationship status: Single 👉👈
--->
+
