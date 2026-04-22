@@ -1,26 +1,15 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**GitHub-geter/GitHub-geter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me  
+It's ***Shovan Dutta***  
 
-Here are some ideas to get you started:
--->
+- 📖 I’m currently pursuing **B.Tech in Computer Science & Engineering** at [SKFGI](https://www.skf.edu.in/)  
+- 🚀 Passionate about coding, problem-solving, and building real-world projects  
+- 👯 Looking to collaborate on **coding challenges, hackathons, and exciting projects**  
+- 💬 Ask me about **coding, tech, and anime**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sovndutt/)  
 
-- 🏫 I’m currently studying in Supreme Knowledge Foundation Group of Institute
+---
 
-- 📖 I’m currently persuing Computer Science and Engineering Btech degree
-
-- 👯 I’m looking to collaborate on coding challenges, hackathons, and any exciting projects that come our way.
-
-- 🤔 I’m looking for help with gaining a deeper understanding of best practices and efficient coding techniques.
-
-- 💬 Ask me about coding, anime.
-
-- 📫 How to reach me:On instagram at "https://www.instagram.com/sovndutt_/" 
-
-- 😄 Pronouns: HE/HIM
-
-- ⚡ Fun fact: I love what i am learning
-
-- ❤️‍🩹  Relationship status: Single ❤️‍🔥
-
+### ⚡ Fun Fact  
+I enjoy turning ideas into code and learning something new every day.
