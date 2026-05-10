@@ -1,14 +1,15 @@
+![Banner](github-header-banner.png)
 ## Hi there 👋  
 
 ### 👨‍💻 About Me  
 It's ***Shovan Dutta***  
 
-- 📖 I’m currently pursuing **B.Tech in Computer Science & Engineering** at [SKFGI](https://www.skf.edu.in/)  
-- 🚀 Passionate about coding, problem-solving, and building real-world projects  
-- 👯 Looking to collaborate on **coding challenges, hackathons, and exciting projects**  
+- 📖 I’m from **India 🇮🇳** , currently pursuing **B.Tech in Computer Science & Engineering**
+- 🚀 Learning **DSA, Development, and Exploring new Technologies**  
+- ⚒️ Preparing to **Build and Contribute to real-world projects**  
+- 🌱 Focused on improving through **projects and continuous learning**  
 - 💬 Ask me about **coding, tech, and anime**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sovndutt/)  
-
 ---
 
 ### ⚡ Fun Fact  
